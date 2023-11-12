@@ -42,4 +42,4 @@ Contributing
 Feel free to contribute to the project. If you find any issues or have suggestions, please open an issue or submit a pull request.
 
 License
-This project is licensed under the MIT License.
+By Ameni Djemai
